@@ -11,7 +11,7 @@
 2. Поднять локально OWASP Juice Shop [https://pwning.owasp-juice.shop/companion-guide/latest/part1/running.html](https://pwning.owasp-juice.shop/companion-guide/latest/part1/running.html) и провести сканированием с помощью OWASP ZAP
 Отчёт выгрузить в JSON-формате. Написать функцию, которая принимает путь до файла с отчётом и сохраняет новый файл в JSON-формате следующего вида:
     
-    ![Untitled](INT-16%20d0ca8659b3d24d63a0758dcfb761bff0/Untitled.png)
+    ![Example JSON](https://github.com/SamDen28/INT16/raw/master/Example.png)
     
 
 ---
